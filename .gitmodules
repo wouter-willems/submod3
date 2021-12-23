@@ -1,0 +1,4 @@
+[submodule "submod3/submod2"]
+	path = submod3/submod2
+	url = git@github.com:wouter-willems/submod2.git
+	branch = master
